@@ -1,0 +1,17 @@
+.navbar-brand,
+.navbar-nav li a {
+    line-height: 74px;
+    height: 74px;
+    padding-top: 0;
+}
+
+.navbar-brand,
+.navbar-nav li a img
+{
+	padding-top: 18px;
+}
+
+.fa-3x-nav-middle
+{
+	padding-top: 9px !important;
+}
